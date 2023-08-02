@@ -39,3 +39,7 @@ strike, volleyball and to help beginners with code.
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/278956312547688458)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://llyphy46@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://www.linkedin.com/in/filipe-sds/)</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLK-byte&layout=compact&theme=transparent)
+
+
