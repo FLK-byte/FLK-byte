@@ -1,7 +1,9 @@
 <h1 align="center">👋 Olá!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=FLK-byte&label=&style=flat-square&color=blueviolet" /></h1>
 <br/>
-My name is <b>Filipe Santos</b>, I'm a software engineer living in Brazil 🇧🇷.
-I've dedicated my self to be a full stack developer and recently i'm interested in the world of open source wanting projects to contribute. I discovered programming when i was 13 years old at that time i made simple things like an calculator 
+My name is <b>Filipe Santos</b>, I'm a software engineer living in Brazil 🇧🇷. I've dedicated my self to be a full stack developer and recently i'm interested in the world of open source wanting projects to contribute. 
+<br />
+<br />
+I discovered programming when i was 13 years old at that time i made simple things like an calculator 
 in an static website using javascript and now with my 20 years i've done a lot of things such as landing pages, internal systems entire Saas aplications and much more. Aside from coding, I love games, specially counter
 strike, volleyball and to help beginners with code.
 
