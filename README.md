@@ -40,6 +40,9 @@ strike, volleyball and to help beginners with code.
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://llyphy46@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://www.linkedin.com/in/filipe-sds/)</div>
 
+
+
+![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FLK-byte&theme=transparent&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLK-byte&layout=compact&theme=transparent)
 
 
