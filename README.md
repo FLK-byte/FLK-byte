@@ -47,7 +47,6 @@ strike, volleyball and to help beginners with code.
 
 </div>
 
-## 📈 Stats
 <details>
 <summary> Top Langs </summary>
 
