@@ -35,17 +35,31 @@ strike, volleyball and to help beginners with code.
 ![Wsl](https://img.shields.io/badge/Wsl-black?style=flat-square&logo=linux)
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/FLK-byte)
 
+</div>
+
 <br />
 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/278956312547688458)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://llyphy46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://www.linkedin.com/in/filipe-sds/)</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://www.linkedin.com/in/filipe-sds/)
 
+</div>
 
+## 📈 Stats
+<details>
+<summary> Top Langs </summary>
 
-![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FLK-byte&theme=transparent&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLK-byte&layout=compact&theme=transparent)
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLK-byte&layout=compact&theme=transparent" alt="Filipe Santos Top Langs" />
+</div>
+</details>
 
+<details>
+<summary> GitHub Stats</summary>
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=FLK-byte&theme=transparent" alt="Filipe Santos Github Stats" />
+</div>
+</details>
 
